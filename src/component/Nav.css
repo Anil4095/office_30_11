@@ -1,0 +1,43 @@
+* {
+    margin: 0;
+    padding: 0;
+    text-decoration: none;
+
+
+}
+
+
+
+.main-div{
+    width: 100%;
+
+    float: left;
+    background-color:rgb(141, 134, 134);
+    font-size: 20px;
+    
+
+    text-decoration: none;
+
+    border-radius: 10px;
+    padding: 5px;
+    justify-content: center;
+    
+
+    
+
+   
+}
+.home {
+    padding: 10px;
+    float: left;
+    margin-left: 800px;
+ }
+
+.about {
+    padding: 10px;
+    float: left;
+}
+.Contact {
+    padding: 10px;
+    float: left;
+}

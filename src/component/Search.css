@@ -1,0 +1,22 @@
+.Searchbar{
+    width: 40%;
+    height: 30px;
+    align-items: center;
+    margin: auto;
+    margin-left: 580px;
+    border-radius: 10px;
+    
+    
+    
+
+}
+.Searchbar input{
+    width:35%;
+    height: 30px;
+    align-items: center;
+    margin-top: 10px;
+    border-radius: 4px;
+    
+
+
+}
